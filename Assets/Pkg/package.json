@@ -10,6 +10,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "com.minn.other.pkg" : "https://github.com/minnleee/pkg.git?path=Assets/OtherPkg"
+    "com.minn.other.pkg" : "1.0.0"
   }
 }
