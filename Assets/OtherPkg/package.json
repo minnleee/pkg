@@ -1,0 +1,13 @@
+{
+  "name": "com.minn.other.pkg",
+  "displayName": "Temp Other Pkg",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "Temp Other Pkg",
+  "author": {
+    "name": "minn",
+    "email": "minnxxxx@hotmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}

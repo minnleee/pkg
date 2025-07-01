@@ -1,6 +1,6 @@
 <h1 align="center">PKG</h1>
 
-[![license](https://img.shields.io/badge/LICENSE-MIT-green.svg)](LICENSE.md)
+[![license](https://img.shields.io/badge/LICENSE-MIT-green.svg)](LICENSE)
 
 Template Package
 

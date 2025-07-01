@@ -1,9 +1,7 @@
 {
-    "name": "Pkg.Runtime",
-    "rootNamespace": "Pkg.Runtime",
-    "references": [
-        "GUID:1b36bd57f431029479e242a35a652a06"
-    ],
+    "name": "OtherPkg.Runtime",
+    "rootNamespace": "OtherPkg.Runtime",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

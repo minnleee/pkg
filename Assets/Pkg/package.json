@@ -9,5 +9,7 @@
     "email": "minnxxxx@hotmail.com"
   },
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "com.minn.other.pkg" : "1.0.0"
+  }
 }
