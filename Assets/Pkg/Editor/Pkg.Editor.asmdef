@@ -1,0 +1,18 @@
+{
+    "name": "Pkg.Editor",
+    "rootNamespace": "Pkg.Editor",
+    "references": [
+        "GUID:9c8b6d5ee75a56741a04b898d2825fc0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
